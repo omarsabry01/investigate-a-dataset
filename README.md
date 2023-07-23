@@ -1,4 +1,4 @@
-# investigate-a-dataset
+# Investigate a Dataset
 Overview:
 
 In this project, I have applied data analysis techniques to explore and draw meaningful insights from a given data set. This project aims to provide hands-on experience with real-world data and hone my skills in data manipulation, visualization, and statistical analysis. By working on this project.
